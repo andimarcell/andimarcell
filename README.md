@@ -1,4 +1,7 @@
-## Hi there 👋
+
+
+![Study](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c0b3p6dHE4NHIwb3Rnb2hvOWNyanAxc3I3cXowcTY0ajMwN2VlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
+## Hello Wordl! I'm AndiMarcell 👋
 
 <!--
 **andimarcell/andimarcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [Kotlin](https://www.dicoding.com/academies/80/corridor) and [Bootsrap](https://getbootstrap.com/)
