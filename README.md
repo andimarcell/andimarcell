@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="gif/Go On Animation GIF.gif" width="24px"/>
     Hey! Nice to see you.
-    <img src="gif/Wave Hello GIF by Adbros.gif" width="40px">
+    <img src="gif/Wave Hello GIF by Adbros.gif" width="24px">
 </h1>
 
 <br/>
