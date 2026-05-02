@@ -21,7 +21,7 @@
 <br/>
 
 ##### Skills 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,vue&theme=light)
 
 ##### Connect With Me
 
