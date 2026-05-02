@@ -11,9 +11,9 @@
 <img align="right" height="250" width="400" padding-right="50px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c0b3p6dHE4NHIwb3Rnb2hvOWNyanAxc3I3cXowcTY0ajMwN2VlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif">
 
 - 🔭 I’m currently working on **Web Devlopment**
-- 🌱 I’m currently learning **[Vue](https://www.dicoding.com/academies/80/corridor) and [Supabase](https://getbootstrap.com/)**
+- 🌱 I’m currently learning **[Vue](https://vuejs.org/) and [Supabase](https://supabase.com/)**
 - 👯 I’m looking to collaborate on **Web Development**
-- 💬 Ask me about Anything [here](https://www.instagram.com/andi0064_/)
+- 💬 Ask me about Anything [here](https://github.com/andimarcell/ama.git)
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **Learning has no limit**
 
