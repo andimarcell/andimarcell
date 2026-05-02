@@ -21,9 +21,13 @@
 <br/>
 
 ##### Skills 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,=light&perline=)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue&theme=light)
 
 ##### Connect With Me
-![imahttps://www.instagram.com/andi0064_/ge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/andi-marsituru-574273349/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![![https://www.linkedin.com/in/andi-marsituru-574273349/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://x.com/marcell00679456](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://x.com/marcell00679456](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andi0064_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andi-marsituru-574273349/](https://www.linkedin.com/in/andi-marsituru-pakke-9255a4393/))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/masukkan_username_fb_anda](https://web.facebook.com/profile.php?id=100075579668731))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282250123563)
 
 
