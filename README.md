@@ -46,7 +46,7 @@
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **KUSAKU-UI** <br>*(E-Wallet Dashboard)* | Slicing UI aplikasi E-Wallet premium. Menerapkan arsitektur CSS-first, interaksi state-management dengan Vanilla JS, dan sistem form/modal yang responsif. | `Tailwind v4` `Vanilla JS` `HTML5` | [Live Demo](#) <br> [Source Code](#) |
-| **Finance Tracker** <br>*(Skripsi Project)* | Aplikasi Fullstack untuk pelacakan keuangan pribadi. Mengadaptasi desain KUSAKU-UI dengan sistem autentikasi dan database real-time. | `Nuxt 3` `Vue 3` `Supabase` | *(In Progress)* <br> [Source Code](#) |
+| **Finance Tracker** <br>*(Skripsi Project)* | Aplikasi Fullstack untuk pelacakan keuangan pribadi. Mengadaptasi desain KUSAKU-UI dengan sistem autentikasi dan database real-time. | `Nuxt 4` `Vue 3` `Supabase` | *(In Progress)* <br> [Source Code](#) |
 
 ###
 
