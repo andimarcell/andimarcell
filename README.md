@@ -9,7 +9,7 @@
 <img align="right" height="250" width="400" padding-right="50px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c0b3p6dHE4NHIwb3Rnb2hvOWNyanAxc3I3cXowcTY0ajMwN2VlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif">
 
 - 🔭 I’m currently building **KUSAKU-UI**, a modern E-Wallet App using Tailwind v4.
-- 🌱 I’m currently mastering **Nuxt 3 & Supabase** for my Finance Tracker Fullstack App.
+- 🌱 I’m currently mastering **Nuxt 4 & Supabase** for my Finance Tracker Fullstack App.
 - 👯 I’m looking to collaborate on **Open Source Vue.js / Frontend Projects**.
 - 💬 Ask me about Anything [here](https://github.com/andimarcell/ama.git)
 - 😄 Pronouns: **He/Him/His**
