@@ -8,9 +8,9 @@
 
 <img align="right" height="250" width="400" padding-right="50px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c0b3p6dHE4NHIwb3Rnb2hvOWNyanAxc3I3cXowcTY0ajMwN2VlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif">
 
-- 🔭 I’m currently focusing on my Skripsi Project: **Finance Tracker** (Nuxt 4 & Supabase).
-- 🚀 I recently launched my **Modern Dev-Portfolio** using Nuxt 4 & Tailwind v4 and finished **KUSAKU-UI**, a modern E-Wallet App using Tailwind v4.
-- 🌱 I’m currently mastering **Nuxt 4 & Supabase** for my Finance Tracker Fullstack App.
+- 🔭 I recently completed my S1 Computer Science Thesis Project: **Finance Tracker** - a highly secure, multi-tenant financial tracking app.
+- 🚀 I recently launched my **Modern Dev-Portfolio** using Nuxt 4 & Tailwind v4 and finished **KUSAKU-UI**, a premium E-Wallet Dashboard.
+- 🌱 I’m currently mastering **PostgreSQL query optimization, Advanced Row-Level Security, and Nuxt 4 server-routes**.
 - 👯 I’m looking to collaborate on **Open Source Vue.js / Frontend Projects**.
 - 💬 Ask me about Anything [here](https://github.com/andimarcell/ama.git)
 - 😄 Pronouns: **He/Him/His**
@@ -48,7 +48,7 @@
 | :--- | :--- | :--- | :--- |
 | **Nuxt 4 Dev-Portfolio** <br>*(Personal Website)* | Portofolio modern dengan sistem blog cerdas (Nuxt Content v3, Zod validation, auto-TOC) dan integrasi GitHub API untuk project list dinamis. Dioptimasi dengan Nitro SSG & SEO. | `Nuxt 4` `Tailwind v4` `GitHub API` | [Live Demo](https://nuxt4-tailwind-portfolio.vercel.app/) <br> [Source Code](https://github.com/andimarcell/nuxt4-tailwind-portfolio) |
 | **KUSAKU-UI** <br>*(E-Wallet Dashboard)* | Slicing UI aplikasi E-Wallet premium. Menerapkan arsitektur CSS-first, interaksi state-management dengan Vanilla JS, dan sistem form/modal yang responsif. | `Tailwind v4` `Vanilla JS` `HTML5` | [Live Demo](https://andimarcell.github.io/tailwind-fintech-ui-slicing/) <br> [Source Code](https://github.com/andimarcell/tailwind-fintech-ui-slicing.git) |
-| **Finance Tracker** <br>*(Skripsi Project)* | Aplikasi Fullstack untuk pelacakan keuangan pribadi. Mengadaptasi desain KUSAKU-UI dengan sistem autentikasi dan database real-time. | `Nuxt 4` `Vue 3` `Supabase` | *(In Progress)* <br> [Source Code](#) |
+| **Finance Tracker** <br>*(Skripsi Project)* | Aplikasi Fullstack pelacakan keuangan berbasis Multi-Tenant sejati. Mengamankan data dengan PostgreSQL RLS, alur otentikasi ganda (Password & Magic Link), validasi formulir berlapis (Zod & lokal), serta UI hibrida yang sangat responsif. | `Nuxt 4` `Vue 3` `Supabase` `Zod` | [Live Demo](https://pelacak-keuangan-mulia.vercel.app/) <br> [Source Code](https://github.com/andimarcell/nuxt-finance-tracker.git) |
 
 ###
 
